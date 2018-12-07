@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/matteomarchiori/dw-demo-app.svg?branch=master)](https://travis-ci.org/matteomarchiori/dw-demo-app)
+
 # DropWizard Demo Application
 
 Welcome to the DropWizard Demo Application !
